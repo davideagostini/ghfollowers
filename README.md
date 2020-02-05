@@ -2,7 +2,10 @@
 
 The project that I built to learn the foundamental of iOS development.
 
-The list of the arguments:
+### The final UI
+![Screenshot GHFollowers](https://github.com/davideagostini/ghfollowers/blob/master/screenshot.jpg)
+
+### The list of the arguments:
 * 100% ProgrammaticUI
 * CollectionViews with the new DiffableDataSource
 * Search Controllers
@@ -35,6 +38,4 @@ The list of the arguments:
 * Passing Data between views
 * Overall iOS 13 best practices
 * Most importantly… how it all ties together
-    
-    The final UI
-    ![Screenshot GHFollowers](https://github.com/davideagostini/ghfollowers/blob/master/screenshot.jpg)
+
